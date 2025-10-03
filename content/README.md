@@ -29,6 +29,10 @@ python3 -m venv venv
 source venv/bin/activate
 pip install tiktoklive
 ```
+Check version:
+```
+pip show TikTokLive
+```
 
 ##### 4. cCreate example Python Code: app.py
 ```
