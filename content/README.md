@@ -27,14 +27,14 @@ cd tiktok-live-python
 ```
 python3 -m venv venv
 source venv/bin/activate
-pip install tiktoklive
+pip install TikTokLive
 ```
 Check version:
 ```
 pip show TikTokLive
 ```
 
-##### 4. cCreate example Python Code: app.py
+##### 4. Create example Python Code: app.py
 ```
 from TikTokLive import TikTokLiveClient
 from TikTokLive.events import ConnectEvent, CommentEvent, GiftEvent, LikeEvent
