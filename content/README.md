@@ -4,8 +4,8 @@ Original Source: https://codesandbox.io/p/github/Trycatch-tv/TikTokLive/master
 ### Youtube Reference
 #### TikTok Live Data
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=JefGof3G-o8" target="_blank">
-    <img src="https://img.youtube.com/vi/JefGof3G-o8/0.jpg" alt="YouTube Video Thumbnail" width="480" />
+  <a href="https://www.youtube.com/watch?v=BdRBXKvQPXE" target="_blank">
+    <img src="https://img.youtube.com/vi/BdRBXKvQPXE/0.jpg" alt="YouTube Video Thumbnail" width="480" />
   </a>
 </p>
 Click the image above to watch the video
